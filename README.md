@@ -82,8 +82,3 @@
    ➣ Recovery success depends on whether deleted data has been overwritten.
    ➣ Scanning whole drives is time-consuming; use demo on external drives/USBs. 
    ➣ Run as Admin to have full functionality.
-
-# Author
-   ➣ Developed by Shiv Swaroop Sabharwal
-   ➣ Contact: shivswaroopsabharwal@gmail.com
-
